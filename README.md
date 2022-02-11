@@ -7,7 +7,7 @@
     🌱 I am currently learning **Java** and also interested in **Web Development**.
     🎯 My Goal is to Contribute to as many **open source project** as possible.
     ✨ I love to create different types of **contents**.
-<td >
+  <td >
     <a href="https://app.daily.dev/Astrodevil"><img src="https://avatars.githubusercontent.com/u/68543024?v=4" width="300" alt="Mr. Rahul's Dev Card"/></a>
   </td>
 
