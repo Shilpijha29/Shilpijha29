@@ -9,8 +9,7 @@
     🎯 My Goal is to Contribute to as many **open source project** as possible.
     ✨ I love writing **code**.
 <td >
-# this is my daily.dev card, you can edit this accordingly
-    <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Rahul's Dev Card"/></a>
+    <a href="https://app.daily.dev/Astrodevil"><img src="https://avatars.githubusercontent.com/u/68543024?v=4" width="300" alt="Mr. Rahul's Dev Card"/></a>
   </td>
 
 </tr>
