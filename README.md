@@ -35,7 +35,7 @@
 
 ### Experience 📈
 
-- 🔭 Have played around with: ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) 
+- 🔭 Have played around with: ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=java&logoColor=white) ![flutter](https://img.shields.io/badge/-Flutter-purple?style=plastic&logo=Flutter) ![C](https://img.shields.io/badge/-A8B9CC?style=plastic&logo=C) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) 
 
 - 🔧 Using the following tools:![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-orange?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=plastic&logo=github)
 
