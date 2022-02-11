@@ -26,8 +26,8 @@
 <a href="https://github.com/RahuII">
   
 
-  <img height="250rem" src="https://github-readme-stats.vercel.app/api?username=RahuII&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height ="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahuII&theme=algolia"/>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=RahuII&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height ="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahuII&theme=algolia"/>
 </a>
 </p>
 
