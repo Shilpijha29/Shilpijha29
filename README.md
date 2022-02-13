@@ -52,6 +52,7 @@
 
 <a href = "www.linkedin.com/in/rahul-kumar-4497511b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/rahul_kr.yadav/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/r1303yadav"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://twitter.com/rahuI_kr/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 ## ❤ Views and Followers
