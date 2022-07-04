@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://Shilpijha29.github.io/portfolio/)**
+- 👨‍💻 i,m curently explore the new thinks
 
 - 📫 How to reach me **jhashilpi605@gmail.com**
 
